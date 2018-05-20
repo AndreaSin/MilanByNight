@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/LinearLayoutList">
+
+    <ImageView
+        android:id="@+id/image"
+        android:src="@drawable/cracco"
+        style="@style/imageList" />
+
+    <LinearLayout
+        android:id="@+id/container"
+        style="@style/LinearLayoutListInternal">
+
+        <TextView
+            android:text="asdasd"
+            android:id="@+id/name"
+            style="@style/nameList"/>
+
+        <TextView
+            android:text="asdasd"
+            android:id="@+id/address"
+            style="@style/textList"/>
+
+        <TextView
+            android:text="asdasd"
+            android:id="@+id/tel"
+            style="@style/textList"/>
+
+    </LinearLayout>
+
+</LinearLayout>

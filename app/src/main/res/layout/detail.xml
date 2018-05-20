@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/scrollDetail">
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+            style="@style/LinearLayoutDetail">
+
+        <TextView style="@style/nameDetail"
+            android:id="@+id/name"/>
+
+        <ImageView
+            style="@style/imageDetail"
+            android:id="@+id/image"
+            android:src="@drawable/cracco" />
+
+        <LinearLayout
+            style="@style/LinearLayDetailMap">
+
+            <TextView style="@style/telDetail"
+                android:id="@+id/tel"/>
+
+            <RelativeLayout
+                android:id="@+id/layoutMap"
+                style="@style/RelativeLayoutDetailMap">
+
+                <ImageView
+                    style="@style/mapIconDetail"
+                    android:id="@+id/buttonMap"
+                    android:src="@drawable/map"/>
+
+                <TextView style="@style/addressDetail"
+                    android:id="@+id/address"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <TextView style="@style/descDetail"
+            android:id="@+id/desc"/>
+
+    </LinearLayout>
+
+</ScrollView>

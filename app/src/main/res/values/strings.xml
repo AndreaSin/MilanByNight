@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">MilanByNight</string>
+    <string name="disco">Disco</string>
+    <string name="pub">Pub</string>
+    <string name="food">Food</string>
+    <string name="sushi">sushi</string>
+    <string name="desc">    Incredible Place - Could not recommend more!
+    This restaurant from the outside has always intrigued me and after opting to head in for
+        breakfast I could not recommend the restaurant more.
+    The decor is old fashioned and typically traditional with antique furniture and style
+        everywhere, its like you step backwards in time.
+    The food is top notch with every element of the meal made fresh with the best ingredients.
+        Even the baked beans are made from scratch.
+    Will 100% be visiting here again and urge anyone in the Milan area to give it a go!
+    </string>
+
+    <string name="keyName">name</string>
+    <string name="keyAddress">address</string>
+    <string name="keyTel">tel</string>
+    <string name="keyDesc">desc</string>
+    <string name="keyImage">image</string>
+
+    <string name="googleMapSet">geo:0,0?q=</string>
+    <string name="googleMapUr">"com.google.android.apps.maps"</string>
+
+    <string name="discoName1">Pepenero Milano City</string>
+    <string name="discoAdd1">Via Gallarate 224, 20151 Milano, Italia</string>
+    <string name="discoTel1">+393661142325</string>
+
+    <string name="discoName2">Alcatraz</string>
+    <string name="discoAdd2">Via Valtellina 21/27, 20159 Milano, Italia</string>
+    <string name="discoTel2">+390269016352</string>
+
+    <string name="discoName3">Gattopardo</string>
+    <string name="discoAdd3">Via Piero della Francesca 47, 20154 Milano, Italia</string>
+    <string name="discoTel3">+390234537699</string>
+
+    <string name="discoName4">Discotram</string>
+    <string name="discoAdd4">Piazzale Perrucchetti, 20147 Milano, Italia</string>
+    <string name="discoTel4">+390236707971</string>
+
+    <string name="discoName5">Club Haus 80</string>
+    <string name="discoAdd5">Via A. De Tocqueville 13, 20154 Milano, Italia</string>
+    <string name="discoTel5">+393894622247</string>
+
+
+
+    <string name="pubName1">Backdoor43</string>
+    <string name="pubAdd1">Ripa di Porta Ticinese 43, 20143 Milano, Italia</string>
+    <string name="pubTel1">+393661142325</string>
+
+    <string name="pubName2">B:Free Cocktail Bar</string>
+    <string name="pubAdd2">Via Lecco 21, 20124 Milano, Italia</string>
+    <string name="pubTel2">+390269016352</string>
+
+    <string name="pubName3">La Chiesetta</string>
+    <string name="pubAdd3">Via Paolo Lomazzo 12, 20154 Milano, Italia</string>
+    <string name="pubTel3">+390234537699</string>
+
+    <string name="pubName4">Monkey Cocktail Bar</string>
+    <string name="pubAdd4">Via Napo Torriani 5, 20124 Milano, Italia</string>
+    <string name="pubTel4">+390236707971</string>
+
+    <string name="pubName5">Moscow Mule Bar</string>
+    <string name="pubAdd5">Via Teodosio 60, 20131 Milano, Italia</string>
+    <string name="pubTel5">+393894622247</string>
+
+
+
+    <string name="resName1">Seta</string>
+    <string name="resAdd1">Via Andegari 9 20121 Milano, Italia</string>
+    <string name="restel1">+393661142325</string>
+
+    <string name="resName2">Da Vic - Ristorante Guerrini</string>
+    <string name="resAdd2">Via Gaetano Previati 21, 20149 Milano, Italia</string>
+    <string name="restel2">+393661142325</string>
+
+    <string name="resName3">Iyo</string>
+    <string name="resAdd3">Via Piero Della Francesca 74, 20154 Milano, Italia</string>
+    <string name="restel3">+393661142325</string>
+
+    <string name="resName4">Nero 9</string>
+    <string name="resAdd4">Via Anfiteatro 9, 20121 Milano, Italia</string>
+    <string name="restel4">+393661142325</string>
+
+    <string name="resName5">Sikelaia</string>
+    <string name="resAdd5">Via Marco Polo, 10, 20124 Milano, Italia</string>
+    <string name="restel5">+393661142325</string>
+
+
+
+    <string name="sushiName1">Zushi</string>
+    <string name="sushiAdd1">Via Volta 21, 20121 Milano, Italia</string>
+    <string name="sushitel1">+393661142325</string>
+
+    <string name="sushiName2">Bomaki</string>
+    <string name="sushiAdd2">Corso Sempione, 10, 20154 Milano, Italia</string>
+    <string name="sushitel2">+393661142325</string>
+
+    <string name="sushiName3">Neta</string>
+    <string name="sushiAdd3">Viale Piave 41, 20129 Milano, Italia</string>
+    <string name="sushitel3">+393661142325</string>
+
+    <string name="sushiName4">Hana</string>
+    <string name="sushiAdd4">Via Paolo Giovio 3" ,"+390248197213</string>
+    <string name="sushitel4">+393661142325</string>
+
+    <string name="sushiName5">MooKuzai</string>
+    <string name="sushiAdd5">Via Arona 18, 20149 Milano, Italia</string>
+    <string name="sushitel5">+393661142325</string>
+
+
+</resources>

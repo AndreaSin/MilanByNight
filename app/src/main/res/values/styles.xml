@@ -1,0 +1,139 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--MAIN ACTIVITY-->
+    <style name="main">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">match_parent</item>
+        <item name ="android:orientation">vertical</item>
+    </style>
+
+    <style name="tab">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">42dp</item>
+    </style>
+
+    <style name="viewer">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">match_parent</item>
+    </style>
+
+    <!--DETAIL.XML-->
+    <style name="nameDetail">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:textColor">@color/colorAccent</item>
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:textSize">32sp</item>
+    </style>
+
+    <style name="imageDetail">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">200dp</item>
+        <item name ="android:layout_marginTop">20dp</item>
+        <item name ="android:layout_marginBottom">20dp</item>
+        <item name ="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="scrollDetail">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">match_parent</item>
+        <item name ="android:orientation">vertical</item>
+    </style>
+
+    <style name="LinearLayoutDetail" parent="scrollDetail">
+        <item name ="android:padding">12dp</item>
+    </style>
+
+    <style name="RelativeLayoutDetailMap">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:orientation">vertical</item>
+    </style>
+
+    <style name="mapIconDetail">
+        <item name ="android:layout_width">20dp</item>
+        <item name ="android:layout_height">20dp</item>
+    </style>
+
+    <style name="telDetail">
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_marginBottom">15dp</item>
+        <item name ="android:autoLink">phone</item>
+    </style>
+
+    <style name="LinearLayDetailMap">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:orientation">vertical</item>
+    </style>
+
+    <style name="addressDetail">
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:layout_marginLeft">10dp</item>
+        <item name ="android:layout_toRightOf">@id/buttonMap</item>
+    </style>
+
+    <style name="descDetail">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:textSize">16sp</item>
+        <item name ="android:layout_marginTop">30dp</item>
+    </style>
+
+    <!--FRAMES-->
+    <style name="wrap">
+        <item name ="android:layout_width">wrap_content</item>
+        <item name ="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="match">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">match_parent</item>
+    </style>
+
+    <!--LISTITEM-->
+    <style name="LinearLayoutList">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:padding">4dp</item>
+        <item name ="android:orientation">horizontal</item>
+    </style>
+
+    <style name="imageList">
+        <item name ="android:layout_width">120dp</item>
+        <item name ="android:layout_height">120dp</item>
+        <item name ="android:scaleType">centerCrop</item>
+    </style>
+
+    <style name="LinearLayoutListInternal">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">match_parent</item>
+        <item name ="android:paddingLeft">16dp</item>
+        <item name ="android:orientation">vertical</item>
+    </style>
+
+    <style name="nameList">
+        <item name ="android:layout_marginBottom">14dp</item>
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+        <item name ="android:textColor">@color/colorAccent</item>
+        <item name ="android:textStyle">bold</item>
+        <item name ="android:textSize">18sp</item>
+    </style>
+
+    <style name="textList">
+        <item name ="android:layout_width">match_parent</item>
+        <item name ="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>
